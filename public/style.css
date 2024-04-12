@@ -1,0 +1,29 @@
+
+/* .headcont{
+ background-color: #008DDA;
+} */
+body{
+    background-color: #008DDA;
+    
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    font-size: large;
+    color: black;
+
+}
+.container h1 h2 h3{
+   color: rgb(65, 201, 226); 
+}
+#project{
+    display: flex;
+}
+#home .container{
+    display: flex;
+}
+#home .container img{
+    width: 300px;
+    border-radius: 20px;
+}
